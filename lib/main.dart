@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
               height: 320,
               child: MyImageWidget(
                 imageUrl:
-                'http://87.107.146.132:8050/media/logo_images/LOGO-copy_1_copy.png',
+                'http://87.107.146.132:8000/media/Specialist_images/%D9%86%DA%A9%D9%88%D8%A8%DB%8C%D9%86.jpg',
               ),
             ),
             SizedBox(height: 20),
@@ -33,7 +33,7 @@ class MyApp extends StatelessWidget {
               height: 320,
               child: MyImageWidget(
                 imageUrl:
-                'http://87.107.146.132:8000/media/Specialist_images/LOGO_copy_T8GA3tf.png',
+                'http://87.107.146.132:8000/media/Specialist_images/%D9%86%DA%A9%D9%88%D8%A8%DB%8C%D9%86.jpg',
               ),
             )
           ],
